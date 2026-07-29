@@ -1,4 +1,5 @@
 # 📊 Olist E-Commerce Business Intelligence Dashboard
+Built using Microsoft Power BI | Olist E-Commerce Public Dataset
 
 ## Overview
 An interactive Power BI solution built using the Olist E-Commerce dataset to analyze business performance, sales trends, customer behavior, and operational efficiency.
@@ -42,17 +43,17 @@ To transform raw e-commerce data into actionable business insights through inter
 ## Dashboard Preview
 
 ### Executive Overview
-<img width="1250" height="702" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/b9e00937-cddb-459e-bca5-a19bb77336eb" />
+<img width="900" height="702" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/b9e00937-cddb-459e-bca5-a19bb77336eb" />
 
 
 ### Sales Performance
-<img width="1247" height="697" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/c40ee93a-0f79-4bf5-92a9-742cb74043a7" />
+<img width="900" height="697" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/c40ee93a-0f79-4bf5-92a9-742cb74043a7" />
 
 ### Customer Intelligence
-<img width="1247" height="711" alt="Customer_dashbord" src="https://github.com/user-attachments/assets/34d88bad-2b65-4b89-8732-7f8055b6e35d" />
+<img width="900" height="711" alt="Customer_dashbord" src="https://github.com/user-attachments/assets/34d88bad-2b65-4b89-8732-7f8055b6e35d" />
 
 ### Operations Insights
-<img width="1252" height="707" alt="delivery_dashboard" src="https://github.com/user-attachments/assets/54c8cd39-8540-4cd9-a7e7-7712df80cf57" />
+<img width="900" height="707" alt="delivery_dashboard" src="https://github.com/user-attachments/assets/54c8cd39-8540-4cd9-a7e7-7712df80cf57" />
 
 
 ## 💼 Skills Demonstrated
