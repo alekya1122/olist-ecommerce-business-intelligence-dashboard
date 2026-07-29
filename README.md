@@ -52,7 +52,8 @@ To transform raw e-commerce data into actionable business insights through inter
 <img width="1247" height="711" alt="Customer_dashbord" src="https://github.com/user-attachments/assets/34d88bad-2b65-4b89-8732-7f8055b6e35d" />
 
 ### Operations Insights
-<img width="1247" height="697" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/9c5b7d4d-4b77-42ab-b3e6-686d6dab63c4" />
+<img width="1252" height="707" alt="delivery_dashboard" src="https://github.com/user-attachments/assets/54c8cd39-8540-4cd9-a7e7-7712df80cf57" />
+
 
 ## 💼 Skills Demonstrated
 
