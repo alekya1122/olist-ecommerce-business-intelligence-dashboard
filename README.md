@@ -42,7 +42,8 @@ To transform raw e-commerce data into actionable business insights through inter
 ## Dashboard Preview
 
 ### Executive Overview
-<img width="1247" height="711" alt="Customer_dashbord" src="https://github.com/user-attachments/assets/b606b30f-b628-46ea-b731-ac5b7d72b1ae" />
+<img width="1250" height="702" alt="Executive_Dashboard" src="https://github.com/user-attachments/assets/b9e00937-cddb-459e-bca5-a19bb77336eb" />
+
 
 ### Sales Performance
 <img width="1247" height="697" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/c40ee93a-0f79-4bf5-92a9-742cb74043a7" />
