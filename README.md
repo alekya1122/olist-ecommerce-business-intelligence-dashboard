@@ -73,6 +73,6 @@ To transform raw e-commerce data into actionable business insights through inter
 
 **Alekya Gandham**
 
-Aspiring Data Analyst | Power BI Developer
+Aspiring Data Analyst 
 
 📍 Hyderabad, India
